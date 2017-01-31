@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>magni</Name>
+  <Classes>8,4009</Classes>
+  <ToolbarSlotHex>014a0000000200</ToolbarSlotHex>
+  <TaskType>Buff</TaskType>
+  <SendDelay>100</SendDelay>
+  <BuffHex>14000000</BuffHex>
+  <OnOccurence>false</OnOccurence>
+</TaskDBEntry>

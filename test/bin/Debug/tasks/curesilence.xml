@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>silencegreenpot</Name>
+  <Classes>0</Classes>
+  <ToolbarSlotHex>00fa0100000000</ToolbarSlotHex>
+  <TaskType>Buff</TaskType>
+  <SendDelay>100</SendDelay>
+  <BuffHex>75030000</BuffHex>
+  <OnOccurence>true</OnOccurence>
+</TaskDBEntry>

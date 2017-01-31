@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>sw</Name>
+  <Classes>4009,8</Classes>
+  <ToolbarSlotHex>010c0000000a00</ToolbarSlotHex>
+  <TaskType>Hold</TaskType>
+  <SendDelay>100</SendDelay>
+  <WithClick>true</WithClick>
+  <ClickDelay>20</ClickDelay>
+  <OnOccurence>false</OnOccurence>
+</TaskDBEntry>

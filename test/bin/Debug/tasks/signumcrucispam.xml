@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>signumspam</Name>
+  <Classes>4009,8</Classes>
+  <ToolbarSlotHex>01200000000100</ToolbarSlotHex>
+  <TaskType>Toggle</TaskType>
+  <SendDelay>2000</SendDelay>
+  <WithClick>false</WithClick>
+  <ClickDelay>20</ClickDelay>
+</TaskDBEntry>

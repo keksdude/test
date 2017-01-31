@@ -1,0 +1,14 @@
+c:\users\eugen\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.CharWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.TaskWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.OfflineWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.GUI.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Debug\test.GetPauseKey.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Debug\Tasks\heal.xml

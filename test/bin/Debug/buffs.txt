@@ -1,0 +1,21 @@
+45000000	singing
+
+14000000	magni
+0a000000	bless
+0c000000	agi
+0f000000	impo
+6e000000	asu
+
+
+74000000	windwalk
+03000000	improve
+73000000	truesight
+
+75030000	silenced
+76030000	curse/confusion
+
+3a000000	autoguard
+3b000000	reflect shield
+3c000000	devo (target and caster)
+
+57000000	steel body

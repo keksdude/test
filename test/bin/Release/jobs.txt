@@ -1,0 +1,42 @@
+0	novice
+1	swordman
+2	magician
+3	archer
+4	acolyte
+5	merchant
+6	thief
+7	knight
+8	priest
+9	wizard
+10	blacksmith
+11	hunter
+12	assassin
+14	crusader
+15	monk
+16	sage
+17	rogue
+18	alchemist
+19	bard
+20	dancer
+
+4008	lk
+4009	hp
+4010	hw
+4011	ws
+4012	sniper
+4013	assa cross
+4015	pala
+4016	champ
+4017	prof
+4018	stalker
+4019	crea
+4020	clown
+4021	gypsy
+
+4001	high novice
+4002	high swordi
+4003	high mage
+4004	high archer
+4005	high aco
+4006	high merch
+4007	high thief

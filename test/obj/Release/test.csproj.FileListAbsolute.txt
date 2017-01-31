@@ -1,0 +1,13 @@
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Release\test.exe.config
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Release\test.exe
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Release\test.pdb
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.TaskWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.CharWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.exe
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.pdb
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.OfflineWindow.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.GUI.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.GetPauseKey.resources
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.csprojResolveAssemblyReference.cache

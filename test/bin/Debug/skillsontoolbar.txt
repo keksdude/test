@@ -1,0 +1,14 @@
+skills
+01f60300000100	redemtio
+011c0000000a00	heal
+01310100000100	encore
+017d0100000500	falcon assault
+012e0000000a00	double strafe
+017e0100000500	sharp shooting
+012d0000000a00	improve concentration
+012f0000000900	arrow shower
+017c0100000a00	true sight
+014a0000000200	magni
+
+buffs
+14000000 magni

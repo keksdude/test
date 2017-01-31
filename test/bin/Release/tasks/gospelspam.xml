@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>gospelevery61sec</Name>
+  <Classes>4015</Classes>
+  <ToolbarSlotHex>01710100000a00</ToolbarSlotHex>
+  <TaskType>KeyToggle</TaskType>
+  <SendDelay>61000</SendDelay>
+  <WithClick>false</WithClick>
+  <ClickDelay>20</ClickDelay>
+</TaskDBEntry>

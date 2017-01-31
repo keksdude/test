@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>auto sb</Name>
+  <Classes>15,4016</Classes>
+  <ToolbarSlotHex>010c0100000500</ToolbarSlotHex>
+  <ToolbarSlotHex2>01910100000100</ToolbarSlotHex2>
+  <TaskType>BuffCheckDoDouble</TaskType>
+  <SendDelay>500</SendDelay>
+  <PauseBetweenSkills>500</PauseBetweenSkills>
+  <BuffHex>57000000</BuffHex>
+  <OnOccurence>false</OnOccurence>
+</TaskDBEntry>

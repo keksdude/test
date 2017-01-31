@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>spam shrimps</Name>
+  <Classes>0</Classes>
+  <ToolbarSlotHex>00370200000000</ToolbarSlotHex>
+  <TaskType>KeyHold</TaskType>
+  <SendDelay>100</SendDelay>
+  <WithClick>false</WithClick>
+</TaskDBEntry>

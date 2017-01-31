@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBuffDBEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BuffDBEntry>
+    <Name>angelus</Name>
+    <HexData>09000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>zero</Name>
+    <HexData>00000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>hidden2</Name>
+    <HexData>00e9cc05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>gloria</Name>
+    <HexData>15000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>bless</Name>
+    <HexData>0a000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>agi</Name>
+    <HexData>0c000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>magni</Name>
+    <HexData>14000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>impo</Name>
+    <HexData>0f000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>ke</Name>
+    <HexData>13000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>01000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>fa000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>087aa005</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>00a7bf05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e8709805</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50c99704</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>987baa05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>309dc005</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50a3ab05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>6e020000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50929705</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>788e7f05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1b000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48a3c704</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name>song</Name>
+    <HexData>45000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0edb004</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88a4ac05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>4d000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>33000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>74030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>3c000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>3a000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>6d030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>23000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>3b000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>60cb4302</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c8931204</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70d19704</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a0f79405</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>9046b105</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>6e000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b7020000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1c000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>9026ac05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e83c8b05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b838ba04</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>909c8705</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>57000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>681eaa05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20c59d04</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>74000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78e8b104</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>68729306</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0749306</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>08759306</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8672902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b8d22702</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8c52702</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>58d9aa04</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c8b27f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50b57f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>68b57f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70742c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78f42902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8fa2902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>008c9405</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8228006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>30258006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48258006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20483d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50c43b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0cd3b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>6c030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1841a705</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>10d37d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>98d57d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0d57d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d8ee4402</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>38f24202</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8f54202</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>7c000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0368305</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>ffffffff</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70958506</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f8978506</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>10988506</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>003c1e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>90e51b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>302f1b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>00010100</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e83a1e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50401a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>283c1e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>58a18e05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>28789b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b07a9b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c87a9b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c0791e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>68dd1c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78df1c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>607a1e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>18631b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e8791e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20d7b204</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48e47b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d0e67b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e8e67b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b8893e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78e13c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>28e23c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a88a3e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e8b73e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0893e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d071b705</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b8897b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>408c7b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>588c7b06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0684d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88e94b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78e74b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50694d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78614a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78694d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1814b805</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>80689706</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>086b9706</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>206b9706</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>60a02f02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0db2d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20d92d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>589e2f02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>80a02b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>189d2f02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0627a05</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>58fd7d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0ff7d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f8ff7d06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>706c4002</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0733e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d0773e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>186a4002</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e8443c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c8694002</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>18a99705</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0068106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78098106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>90098106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>509a4d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d8e34b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88e44b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48984d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>28f44d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>10994d02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>90118605</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70158206</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f8178206</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>10188206</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>58563a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20d63702</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0dd3802</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48573a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>18653702</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>98573a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>80000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c09ca405</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>00a07106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88a27106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a0a27106</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70684502</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>70c84302</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>40c24302</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>58674502</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f8394102</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>98684502</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>73030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>dd070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>db070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>dc070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d9070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>11000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>6b030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>da070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d6070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d7070000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>12000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>38c47905</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>20576f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8596f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c0596f06</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>28604602</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0c24402</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0c54402</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c8604602</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>98654302</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f0604602</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>805bb905</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d8558006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>60588006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>78588006</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50873c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>18ed3a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>08eb3a02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>60863c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>185f3902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>00873c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>50619905</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88418406</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>10448406</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>28448406</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>80a71e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>30cc1c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>b0d11c02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>d8a91e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>803a1b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>08a71e02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1e010000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>1a010000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>95000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>76030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>75030000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>2850c405</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>a8328906</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>30358906</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>48358906</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>c0602b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>98de2902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>f8df2902</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>e0632b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>983b2702</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>88612b02</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>05000000</HexData>
+  </BuffDBEntry>
+  <BuffDBEntry>
+    <Name />
+    <HexData>df070000</HexData>
+  </BuffDBEntry>
+</ArrayOfBuffDBEntry>

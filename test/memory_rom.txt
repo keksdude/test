@@ -1,0 +1,12 @@
+﻿<PurchaseOrder xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Items>
+        <Item>
+            <ItemID>aaa111</ItemID>
+            <ItemPrice>34.22</ItemPrice>
+        <Item>
+        <Item>
+            <ItemID>bbb222</ItemID>
+            <ItemPrice>2.89</ItemPrice>
+        <Item>
+    </Items>
+</PurchaseOrder>
