@@ -11,3 +11,4 @@ C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.
 C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.GUI.resources
 C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.GetPauseKey.resources
 C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\documents\visual studio 2013\Projects\test\test\bin\Release\Tasks\heal.xml
